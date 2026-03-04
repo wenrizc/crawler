@@ -19,8 +19,8 @@
     },
     {
         "uuid": "e5386581c8be48e590d10d248310fce3",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "腾讯 一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">3.3 一面<br/>岗位: 后台开发<br/>部门： 腾讯云<br/>场景题偏多，没问项目，没手撕，时长半小时<br/><br/>1. 自我介绍<br/>2. Java基础：<br/>    - Treemap &amp; HashMap区别<br/>    - ArrayList, 添加n个数（n较大），会发生什么（应该是想问ArrayList的扩容机制）<br/>    - 考虑扩容的情况下这个过程的复杂度多少（说明复杂度计算思路即可，不需要给出具体的复杂度）<br/>3. 并发：<br/>    - 项目里怎么用多线程的（一开始答了具体场景，不过面试官想听的是线程池，Synchronized这些...）<br/>    - volatile &amp; synchronized <br/>    - 这里还问了一个，不过忘了...<br/>    - 假设项目里用了很多synchronized拖慢了系统效率，让你重构项目，你怎么设计？ （真不会，回了一个参考乐观锁的设计用版本号之类的，然后这个话题就过了）<br/>4. JVM<br/>    - JVM垃圾回收，怎么判断对象有没有被引用？ （可达性分析）<br/>    - GC Root有哪些<br/>    - 遇到OOM怎么排查<br/>5. 场景<br/>    - 设计一个数据结构，用于在搜索框中搜索人名（不知道是不是这个意思，答了字典树这个结构）<a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a><br/>    - 使用字典树存储的话空间复杂度是多少(同前面，给出计算思路就行，不需要具体的值）<br/>    - 问了下简历上项目的背景，项目的具体内容没问<br/>    - 项目里的难点/印象深刻的点,咋解决的<br/>    - 针对上一点提了一个发散性的场景题（让你设计个xxx，你的思路）<br/>然后反问，无手撕。 <br/>---<br/>春招第一面，被场景设计问题拷打麻了，就当练习了，不敢奢望能过，后续随缘了<br/>3.4更新，已挂</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/e5386581c8be48e590d10d248310fce3"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
         "uuid": "3ba24ab7953a4e9eb616d835d1ad0d44",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节国际广告后端春招一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">缓存方案的读链路和写链路<br/><br/>缓存雪崩击穿穿透<br/><br/>缓存用了什么ttl，数据结构用的是什么<br/><br/>分表如何保证数据一致性<br/><br/>项目里面哪里用到了多线程  进程<br/><br/>线程  进程底层区别<br/><br/>数据库acid，隔离性<br/><br/>为啥用b树<br/><br/>原子性在操作系统和硬件层面如何实现<br/><br/>抖音刷视频的请求链路<br/><br/>抖音要求高qps低延迟  在哪些层面优化<br/><br/>算法题：和谐数</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/3ba24ab7953a4e9eb616d835d1ad0d44"
     },
     {
@@ -91,13 +91,13 @@
     },
     {
         "uuid": "70d4f44e03f542d2a32035680550225d",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "焦点科技java后端一面30min",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"><a class=\"subject font-green\" href=\"/enterprise/2568/discussion\" nc-subject-tag-id=\"2568\" nc-subject-type=\"2\" target=\"_blank\">#焦点科技#</a> <br/>1.自我介绍<br/>2.String为什么不可变，底层jdk层面怎么实现不可变的？<br/>3.synchronized和reentantlock区别，如何选择使用<br/>4.hashmap ，如果插入的是自定义对象，需要注意什么<br/>5.为什么重写equals方法和hashcode方法<br/>6.项目用到了分布式锁，怎么实现的？<br/>7.java是值传递还是引用传递<br/>8.小题目：main方法中new一个名叫list的Arraylist，add (\"A\")，change(list)，change方法中new了一个Arraylist，add (\"B \")，问输出结果是？<br/>9.innodb的索引结构是怎样的，查询name age 字段索引要怎么建<br/>10.项目中登录功能怎么实现的<br/>11.项目中redis用在哪儿<br/>12.算法题（只问了思路）：两数之和，输出和为目标值的下标<br/><br/>面试官声音听起来很年轻的样子，没有压力，挺好的，第一次面试有点紧张，有些细节脑子抽了没答到点上。</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/70d4f44e03f542d2a32035680550225d"
     },
     {
         "uuid": "3cf36383422f4495b06225870679a53f",
-        "title": "标题未找到",
+        "title": "#AI面试问题分享# 作为Java工程师，我发现现在面试AI岗位（或者带AI方向",
         "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"><a class=\"subject font-green\" href=\"/creation/subject/0dcc0d4a34d14c0eae55584f56f33a11\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#AI面试问题分享#</a><br/>作为Java工程师，我发现现在面试AI岗位（或者带AI方向的后端岗），考察点真的挺“硬核”的。之前面试被问到过怎么用LangChain或者Spring AI做RAG检索增强，还有向量数据库的索引优化，甚至问到了模型推理加速和显存管理。感觉光会调API已经不够看了，面试官更看重你怎么把大模型能力稳定地嵌入到现有业务架构里，以及对底层原理的理解。大家最近面试都被问到什么深度的技术题了？求分享避坑指南。</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/3cf36383422f4495b06225870679a53f"
     },
@@ -115,7 +115,7 @@
     },
     {
         "uuid": "60ab1ca5532f4ac3a8cd15223f2916af",
-        "title": "标题未找到",
+        "title": "📍面试公司: 广州好智 🕐面试时间：2.28 💻面试岗位：golang后端",
         "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">📍面试公司: 广州好智<br/>🕐面试时间：2.28<br/>💻面试岗位：golang后端<br/>❓面试问题:  给一个Word文档，把里面的题目转换为标准格式题目输出，手撕一个接口调用大模型返回输出。时限一个半小时<br/>🙌面试感想：最后有点bug，卡着时限写完了。小厂啥也不问上来纯手撕干蒙了。</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/60ab1ca5532f4ac3a8cd15223f2916af"
     },
@@ -229,8 +229,8 @@
     },
     {
         "uuid": "a1c85088de19490f8ad5e9a2e89f2037",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "实在智能Java二面面经 （仍需沉淀）",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. HashMap 1.8内部的数据结构是什么？<br/>2. 从数据结构和算法角度，HashMap的数组+链表+红黑树设计的好处是什么？<br/>3. 为什么HashMap选择红黑树而非普通二叉搜索树/平衡二叉树？<br/>4. ConcurrentHashMap 1.8通过什么方式保证线程安全？<br/>5. Volatile关键字在ConcurrentHashMap中具体修饰的对象是什么？<br/>6. Spring IOC容器如何解决循环依赖问题？<br/>7 ~ 22 项目拷打，实习拷打<br/><br/>面试官之前是阿里背景，被拷打的压力有点大，项目问的很细，暴露很多问题。还有差距还得沉淀。</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/a1c85088de19490f8ad5e9a2e89f2037"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "uuid": "df26e33ff3a241de9e3fcb2b89678b1c",
-        "title": "标题未找到",
+        "title": "27届学院本的我真没招了。今天面了三家小公司，过了两家。最后一家要求全栈，我对前",
         "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">27届学院本的我真没招了。今天面了三家小公司，过了两家。最后一家要求全栈，我对前端不熟悉，他就拿这个压价，昨天晚上十点多在ssob上问我方便面试不，我就感觉不简单了。面试一上来就问我高考多少分，接着问了个前端VUE的生命周期，后端问了常见的数据库连接池和拦截器的实现原理，最后在杭州给我开出60的超高日薪，让我考虑一下，好了给他发消息参加上机测试，测试成绩和最终薪资挂钩，他还说工资可以随时调整，技术提升了就可以涨薪。最后学校不放人，全剧终<a class=\"subject font-green\" href=\"/creation/subject/0605597e8f174967aa7c6560052b073a\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#大厂面试问八股多还是项目多？#</a> <a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/df26e33ff3a241de9e3fcb2b89678b1c"
     },
@@ -337,8 +337,8 @@
     },
     {
         "uuid": "309fd4b1b86e467c9b91e0e3db93e306",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">面试问题总结：<br/>1. 自我介绍<br/>2. 手撕算法（64.最小路径和 ez）<br/>3. 你是如何看待线程安全的？<br/>4. volatile关键字可以用来修饰方法嘛？<br/>5. synchronized和volatile有什么区别？<br/>6. volatile会导致线程阻塞嘛？<br/>7. Mybatis的缓存机制？<br/>8. 什么情况下会导致频繁Full GC？<br/>9. MySQL优化实践？<br/>10. 你要做一个简易QQ，你会用哪些类型的数据结构？<br/>11. SpringBoot如何解决跨域？<br/>12. SpringBoot启动类中有哪些注解？<br/>13. SQL题目（有点忘了）<br/>14. Redis中的缓存击穿；<br/>15. 拷打项目；<br/>16. 大模型知识了解？<br/>17. 如何做流式输出？<br/>18. 你项目中用到的RAG是有什么用？<br/>反思：第一次面试，还是非常紧张，有些知识点了解的不够透彻，必须继续了解！关于大模型的了解需要加强！！<img data-card-emoji=\"[打气]\" data-card-nowcoder=\"[打气]\" src=\"https://uploadfiles.nowcoder.com/images/20220815/318889480_1660553763389/B0FC0CCC93C9C94C30C74CEE1D3E4F61\" style=\"width:18px; height:18px\"><a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a></img></div>",
         "url": "https://www.nowcoder.com/feed/main/detail/309fd4b1b86e467c9b91e0e3db93e306"
     },
     {
@@ -355,20 +355,20 @@
     },
     {
         "uuid": "dd01f86aacfe42869cc0070e3dcc692e",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节java日常一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"> 1.16面的，2.6发的感谢信，问的不难，但当时一点没准备，没怎么答上来<br/>1.项目的业务场景<br/>2.项目中遇到最大的问题，怎么解决的<br/>3.项目运行的整个过程，从前端到后端的涉及到的整个过程，中间会涉及哪些协议(记不太清了)<br/>4.讲一下io多路复用<br/>5.select，poll，epoll有什么区别<br/>6.讲一下jvm虚拟机<br/>7.虚拟内存是什么，后面有个追问不记得了<br/>8.那java虚拟机里的内存和这个虚拟内存什么关系<br/>9.了解大模型嘛，说一下你了解的东西，还有大模型的应用<br/>应该还有一些问题，但不记得了😁<br/>代码:hot100原题岛屿数量<br/>项目挂的外卖和点评，现在看的话其实问的不难，当天晚上就有反馈短信，应该是直接寄，但拖了20天才发感谢信😡<br/><a class=\"subject font-green\" href=\"/creation/subject/ef89a25d023f42209804f3413b5bbaff\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#字节#</a> <a class=\"subject font-green\" href=\"/creation/subject/7ed2b413c8e64f9da9e460af91f577de\" nc-subject-tag-id=\"827\" nc-subject-type=\"0\" target=\"_blank\">#实习#</a> <a class=\"subject font-green\" href=\"/creation/subject/8581780cbaca4ac98371b9aebf78045a\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#日常实习#</a> <a class=\"subject font-green\" href=\"/creation/subject/928d551be73f40db82c0ed83286c8783\" nc-subject-tag-id=\"818\" nc-subject-type=\"0\" target=\"_blank\">#面经#</a> <a class=\"subject font-green\" href=\"/creation/subject/1bbeacfa36f542f5a7a733297c2cf460\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#java#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/dd01f86aacfe42869cc0070e3dcc692e"
     },
     {
         "uuid": "b81d3455b5ce49658718ee19e14613d8",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "【杭州亿格云科技有限公司】-【后端】-【一面】技术面经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. 基于存在高QPS的API，设计函数实现访问频率控制，具体要求为根据IP/用户ID和访问时间戳，限制两次访问间隔超过5毫秒才允许访问，可使用map记录用户上次访问时间，要求阐述具体实现逻辑<br/>2. 针对基于安全隧道的大访问量离线访问场景，设计记录访问日志的表，要求阐述表的核心字段<br/>3. 若使用Kafka传输访问日志但业务对日志要求较高，Kafka存在丢数据问题，要求阐述对应的补偿手段<br/>4. 为记录离线访问日志的表设计主键，要求阐述具体的设计方案<br/>5. 若使用MySQL存储离线访问日志表，要求阐述表中时间字段应使用的数据类型<br/>6. 不考虑数据量，若使用MySQL存储离线访问日志表，要求阐述表的索引设计方案<br/>7. 针对访问日志表，要求设计实现找出某5分钟内访问频率最高用户的功能，阐述具体实现思路<br/>8. 针对访问日志表，要求设计实现选定任意时间段后查看该时间段内访问次数TOP10的用户/应用的功能，阐述具体实现思路<br/>9. 要求阐述日常进行SQL优化的具体操作流程和检查要点<br/>10. 针对日志查询场景，日志中仅记录关联信息ID，查询/导出时需要关联出详细信息，且该查询操作频繁、数据量较大，要求阐述如何利用缓存解决该问题<br/>11. 针对读多写少的日志关联详细信息，要求阐述使用Redis构建缓存的具体实现方式<br/>12. 结合百万级客户端、高QPS的业务场景，针对日志查询的缓存击穿问题，要求阐述缓存的构建思路和解决方案<br/>13. 若为日志查询缓存设置永久有效（不设置固定过期时间），要求阐述如何判断并更新缓存数据<br/>14. 针对微服务架构下服务之间的频繁调用场景，要求阐述对应的设计思路和技术实现方案<br/>15. 针对访问日志系统，从建表、写入到查询的全流程，要求阐述各环节的设计和实现思路</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/b81d3455b5ce49658718ee19e14613d8"
     },
     {
         "uuid": "97c337aefcbc4129831e30a5aad0094c",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "【Zuvi原里-全栈开发工程师-一面】技术面经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. 某笔记管理网站的音乐源从何处获取，音乐是存储在云端还是前端工程中；若音乐打包在前端工程中，音乐数量增多会导致包体积变大，该如何对其进行更新修改？<br/>2. 百度关键词命中系统的架构是怎样的？请介绍该系统的实现逻辑及相关算法。<br/>3. 百度关键词命中系统是否使用Java开发？<br/>4. 百度关键词命中系统的优化是否包含将关键字从MySQL加载到内存和CDA中，系统实际运行时是否不再查询MySQL？<br/>5. 百度关键词命中系统的400个实例加载的内容是否一致？<br/>6. 百度关键词命中系统为何要通过shell脚本让400多个实例重启，不重启是否无法完成数据更新？<br/>7. 请介绍百度关键词命中系统中Redis带宽优化的具体实现逻辑。<br/>8. 百度关键词命中系统中通过何种方式将12MB的流量降至10MB以下？<br/>9. 若不使用Redis，是否有更简单的方法控制百度关键词命中系统的带宽问题？<br/>10. 在Golang中，协程异步推送是否会带来较大的内存压力？<br/>11. 请介绍Golang的协程和进程的模型。<br/>12. 请介绍Java的JVM内存区域分布。<br/>13. 请介绍Java常用集合（如HashMap、HashSet等）的相关源码。<br/>14. 在实际工作中是否利用Java相关知识做过性能调优，具体是如何操作的？<br/>15. 在百度文档提取系统中参与最深的模块是哪个，请介绍该模块的具体实现逻辑。<br/>16. 百度文档提取系统中通过try catch捕获异常绕过提取失败的部分，为何可以绕过该部分，该操作是否真正解决了提取失败的核心问题？<br/>17. 请解释在百度侧的数据库优化中，覆盖索引的具体优化方式。<br/>18. 日常工作中是否经常处理慢SQL，具体是如何处理的？<br/>19. 请介绍Innodb中索引的数据结构，并说明为何选择该结构，该结构对索引设计有何指导意义？<br/>20. 某笔记管理网站中使用MySQL的全文索引NGRAPH，该索引与Elasticsearch相比效率是否更低，为何选择该索引而非Elasticsearch？<br/>21. 某智能oncall的agent系统的核心agent型架构是怎样的？<br/>22. 某智能oncall的agent系统开发中，除了使用相关AI工具外，做的最多的工作是哪些，具体是如何实现的？<br/>23. 在使用AI编程工具时，若一个工具查询了大量数据超过了工具的上下文窗口，该如何处理？<br/>24. 编程题：给定一个字符串，仅允许在其末尾添加字符使其变成回文串，请使用Java实现并返回构造后的最短回文串。</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/97c337aefcbc4129831e30a5aad0094c"
     },
     {
@@ -385,8 +385,8 @@
     },
     {
         "uuid": "d3739ec82ca74449b3c56bb7b6ab1def",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节 后端开发 (Agent中台)一面凉",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、自我介绍<br/>2、Agent项目是实习项目还是个人项目？有没有上线？<br/>3、拷打实习（10min）<br/>4、大模型微调，你的训练数据集是如何构建的？数据量有多大？<br/>5、在构建数据集的过程中，遇到了哪些挑战？花了多长时间？<br/>6、你之前的实习经历偏后端工程，你未来的职业规划更倾向于纯后端开发，还是希望从事与AI/大模型结合的工作？<br/>7、详细讲一下Golang中Channel的概念和作用，它是否是并发安全的？<br/>8、Channel和传统的锁（Mutex）在实现并发控制时有什么区别？各自的适用场景是什么？<br/>9、讲一下GMP模型<br/>10、当P的本地队列为空或者不为空时，它会怎么去调度G（协程）？<br/>11、Redis支持哪些数据结构<br/>12、为什么Redis的速度这么快<br/>13、如何实现一个类似淘宝搜索框的实时商品名称模糊搜索功能？<br/>14、实时输入联想与输入完成后点击搜索在技术实现上有什么本质区别？<br/>15、实时搜索通常使用什么网络协议（如WebSocket）？你了解或有使用过吗？讲一下<br/>16、请详细说明微信扫码登录的完整流程和背后发生的原理<br/>17、在微服务架构中，服务发现和负载均衡是如何实现的？<br/>18、服务注册中心（如Nacos, Consul）是如何工作的？服务实例如何注册和保活（如通过心跳机制）？<br/>19、讲一下Agent中的“长短期记忆”<br/>20、什么样的信息应该放在长期记忆，什么样的信息放在短期记忆？<br/>21、当对话轮数很多，上下文窗口不足时，有哪些处理策略？（如截断、压缩）<br/>22、如果要进行记忆压缩，通常有哪些方法？<br/>23、了解过Agent的设计范式吗？有哪些？<br/>24、你设计的Agent是怎么实现ReAct模式的？详细讲讲<br/>25、手撕：实现一个并发任务处理器：给定一个包含100个任务ID的列表，要求控制最大并发数为3，模拟并发调用某个外部接口（如打印ID）<br/>26、反问 <a class=\"subject font-green\" href=\"/creation/subject/b57ce93735c2446484acbe13a278e956\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#聊聊Agent开发#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/d3739ec82ca74449b3c56bb7b6ab1def"
     },
     {
@@ -397,14 +397,14 @@
     },
     {
         "uuid": "5fb1ea7192c9423d9a41eaf8982e016f",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节后端-二面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">难度较大，对项目和实习细节挖的极深，八股较少<br/>1. 互相介绍<br/>2. 实习拷打<br/>3. 项目拷打<br/>4. 子查询为什么快<br/>5. 线上问题修复流程<br/>6. 涉及到的linux命令<br/>7. linux内存管理（虚拟内存入手到分段分页）<br/>8. leetcode 547类似 (原题英文，两种方法)<br/>9. 介绍业务<br/>10. 反问<a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a> <a class=\"subject font-green\" href=\"/creation/subject/04b52c859099481cbbb7ad8bbe2639ae\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#字节求职进展汇总#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/5fb1ea7192c9423d9a41eaf8982e016f"
     },
     {
         "uuid": "eb467ab05265476387fa7341b7660d83",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "车300Java开发",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">二面：<br/>hashset怎么获取所有元素？<br/>hashSet我放入一个自定义对象里面包含一个共有属性可能是对象也可能是基本数据类型，我add后，我修改了原来的对象内部的属性，我再add进去会怎么样？对象内部的属性如果参与了hashcode和equals重写，则总元素数是1，否则是2。<br/>list在原来的基础上怎么动态删除元素 （迭代器）<br/>spring怎么在controller拿到请求头 httpservletRequest.getHeader<br/>@service注解是加在哪里的？<br/>如果service要使用新的实现类，怎么换<br/>表（学生名字，科目名字，科目成绩），怎么展示每个科目的最好成绩并且按我要求的科目名字排序输出<br/><a class=\"subject font-green\" href=\"/creation/subject/3871fa77df8f40faa40474d054dbe5e3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#面试问题记录#</a></div>",
         "url": "https://www.nowcoder.com/feed/main/detail/eb467ab05265476387fa7341b7660d83"
     },
     {
@@ -415,8 +415,8 @@
     },
     {
         "uuid": "77fa17297a234b108d140c7b07929d5e",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "美团一面（挂）",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">部门：搜索后端<br/>final关键字<br/>equals和==的区别<br/>es的检索原理<br/>wherea=1andb&amp;gt;2andc&amp;lt;3会不会走(a,b,c)的联合索引<br/>对搜索的理解<br/>数据库分表如何让用户无感<br/>链表翻转<br/>时长:1h<br/>总结：方向不垂直、和面试官聊得很开心，二战美团再次失败</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/77fa17297a234b108d140c7b07929d5e"
     },
     {
@@ -427,14 +427,14 @@
     },
     {
         "uuid": "c49d5ca7304143adbd56dba4df73f537",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "鼎捷数智 Java一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.项目：切量网关怎么实现的数据操作安全<br/>2.多线程的实现方式，他们之间的区别<br/>3.并行流和多线程的区别<br/>4.微服务架构怎么进行统一异常处理<br/>5.有一个增删改查多级数据的需求，比如省-&gt;市-&gt;区的地理信息，怎么设计高效的多级缓存数据模型<br/>6.双向链表和单向链表区别，插入双向链表的过程<br/>反问：业务是PLM系统，管理产品文件、供应链等</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/c49d5ca7304143adbd56dba4df73f537"
     },
     {
         "uuid": "9024e30c457846a181c3d9cb94bdb251",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节后端二面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">40min 左右，面试官提前到了，整体体验很好，题目相对简单，基本都答出来了，感觉面试官放水了。1h 后约三面<br/>1.自我介绍<br/>2.蓝桥杯省1用的什么语言写的<br/>3.Java学了哪些<br/>4.string、stringbuffer、stringbuilder<br/>5.方法重载和重写的区别<br/>6.哪些方法不能被重写？<br/>7.什么是函数式接口？<br/>8.常见的抽象函数式接口有哪些？<br/>9.jdk8之后接口的定义发生了哪些变动？<br/>10.Java中实现异步线程有哪些方式呢？<br/>11.线程池，比如说异步线程，在生产环境中如何实现主线程和子线程实现一个日志的异步串联。如何去通信?<br/>12.threaLocal实现原理？<br/>13.Java动态代理？应用场景？<br/>14.mybatis中#{},${}的区别<br/>15.mybatis中@Param注解<br/>16.mybatis中如何实现分表查询<br/>17.spring中常用注解<br/>18.Autowire注解的用法？可以用在哪个地方（漏了一个用在构造器上，不过后面补说了）<br/>19.spring注册bean的方式<br/>20.如果我想在一个bean属性之后注入之后，执行一段逻辑，要怎么做（@PostConstruct/ApplicationRunner）<br/>21.垃圾回收算法<br/>22.主流的垃圾回收器<br/>23.CMS的原理<br/>24.算法<br/>25.期望base哪里，能实习多久？<br/>26.反问： 几面？业务?<a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/9024e30c457846a181c3d9cb94bdb251"
     },
     {
@@ -445,8 +445,8 @@
     },
     {
         "uuid": "cde6c83dffb74932a46c792bcf55ff12",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "友邦创新科技-- Java开发实习",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"><a class=\"subject font-green\" href=\"/creation/subject/68864293456a409c86e87d41744cca02\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客赏金投稿营#</a><br/><a class=\"subject font-green\" href=\"/creation/subject/c121d108a0d94e04b8821f14c3acadd5\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#发面经攒人品#</a><br/><br/>📍面试公司：友邦创新科技（成都）<br/><br/>💻面试岗位：Java开发实习<br/><br/>🕐面试时间：2025.12.20<br/><br/>❓面试问题：<br/>友邦咨询 成都 Java开发实习 一面<br/>1. 英文自我介绍<br/>2. Java面向对象的三大特性<br/>3. list set map 的区别<br/>4. hashtable 和 hashmap 的区别<br/>5. mysql事务特性，以及隔离级别<br/>6. mysql索引<br/>7. 介绍一下线程Thread中有的方法，以及出现线程不安全的场景<br/>8. Spring Ioc 和 Spring AOP<br/>9. Spring Boot 的自动装配原理<br/>上述为A面试官提问<br/>10. 了解JVM吗？（回答不了解）<br/>11. 介绍一下JMM（答上了缓存和volatile关键字）<br/>12. Spring管理的对象的是单例还是多例？（回答了单例），追问那单例会有线程不安全问题吗？，没回答上来<br/>13. Spring中的事务注解什么时候失效（没回答上来）<br/>上述为B面试官提问<br/>14. throws 和 throw 关键字的区别<br/>15. 接下来不聊技术了，有关个人发展，个人性格一些问题进行提问，而且面试官比较注重英文能力，也提到了工作团队日常工作语言是英语<br/>16. 反问环节均为C面试官回答<br/>上述问C面试官提问<br/><br/>🙌面试感想：面试全程1个小时，下午两点的面试，面试官提前10分钟就到了，面试体验极佳，<br/><a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a></div>",
         "url": "https://www.nowcoder.com/feed/main/detail/cde6c83dffb74932a46c792bcf55ff12"
     },
     {
@@ -553,8 +553,8 @@
     },
     {
         "uuid": "27c2ca08f4fd4cb989b5fe366d7805a0",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "高顿教育后端实习岗位oc",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.15号上午  一面   面后半小时oc<br/>1.15号下午  二面   面后半小时oc<br/>1.19号上午   三面HR面  oc<br/>效率太高了，不晓得是不是缺人<br/><br/>这个忘记录音了，不能复盘，记不太清，还有一些常规的八股(spring框架很多)，然后就是实习项目的拷打<br/><br/>大概只能记得到这些:<br/><br/>一面面经<br/><br/>1.redis三个缓存(雪崩，穿透，击穿)问题<br/>2.数据一致性问题<br/>3.为什么要用redis的hash(项目里面的)<br/><br/>项目拷打<br/><br/>二面面经<br/><br/>主要是拷打实习项目<br/><br/>bean的生命周期<br/>springboot的自动装配<br/>redission相关<br/>MQ重复消费和顺序消费<br/><br/><a class=\"subject font-green\" href=\"/creation/subject/c121d108a0d94e04b8821f14c3acadd5\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#发面经攒人品#</a> <a class=\"subject font-green\" href=\"/creation/subject/c121d108a0d94e04b8821f14c3acadd5\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#发面经攒人品#</a> <a class=\"subject font-green\" href=\"/creation/subject/911c57e167c24c3a9d98643fe97c79c8\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#我的实习日记#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/27c2ca08f4fd4cb989b5fe366d7805a0"
     },
     {
@@ -667,8 +667,8 @@
     },
     {
         "uuid": "1f57a5a59f5e4660a64960a93c9ec5e9",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "快手后端一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. 自我介绍<br/>2. 线程池核心参数; 线程池提交方式(execute/submit); 如何捕获线程池里面的异常(我只知道 submit 的可以在 Future get 时捕获, execute 我不知道怎么获取😢  我就说了 setUncaughtExceptionHandler . 难道面试官想要的是重写afterExecute吗🤔)<br/>3. equals 与 hashcode, 只重写一个, 不重写另一个会发生什么<br/><br/>算法题:<br/>二维数组获取最大的岛屿面积</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/1f57a5a59f5e4660a64960a93c9ec5e9"
     },
     {
@@ -691,8 +691,8 @@
     },
     {
         "uuid": "20a484d3a8e2458db147457ab1b9577c",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "迅雷网络 风控后端一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、项目介绍，挑战点难点<br/>2、如何实现搜索框输入关键词后输出联想词<br/>3、es索引和ｍｙＳＱＬ索引区别<br/>４、如何用ＭＹＳＱＬ实现分布式锁<br/>５、给数据库字符串类型字段的前缀添加索引，可能会有什么问题<br/>６、Ｒｅｄｉｓ中Ｚｓｅｔ的实现原理和使用场景<br/>７、ｒｅｄｉｓ中有许多ｋｅｙ，如何找到前缀相同的ｋｅｙ把他们放到一起<br/>８、ｌｉｎｕｘ中查找字符串、统计某个字符串的出现次数的命令<br/>９、ｔｏｐ命令发现系统负载高但ＣＰＵ使用率低咋排查原因，怎么解决<br/>１０、场景题：存储海量有序数据的文件里随机抽取走了两个数据，如何找到抽取的是哪两个数据？时间复杂度<br/>１１、论坛系统中如何处理数据安全问题，如违规言论或获取其他客户的隐私信息等<br/>１２、最近在学的新技术。答：ａｇｅｎｔ开发</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/20a484d3a8e2458db147457ab1b9577c"
     },
     {
@@ -811,8 +811,8 @@
     },
     {
         "uuid": "ed3e15f1874146b08c77594a2db5c520",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "蔚来后台开发 凉经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">自我介绍<br/>上一段实习做了什么<br/>拷打项目（没熟悉项目导致很多没说出来。。。自己给自己挖坑点：1.大文件导出怎么做到单文件导出且避免oom 2.ttl怎么封装的异步线程池实现上下文传递 3.flowable审批模型和seata分布式事务）<br/><br/>spring aop原理 给出一个代码题service a两个方法一个有自定义@log注解打印输出，还有一个b方法里调用了a方法，现在问调用b方法会不会有日志输出，我说没有应该没走方法增强问为什么，说调用了this方法原生）<br/><br/>java锁介绍一下<br/><br/>算法题 二叉树的最大路径和 <br/><br/>没a出来，思路一开始是错了，后面大概对了但是代码没写完整<br/><br/>反问<br/><br/>第一次面中大厂，肯定寄了，考虑把简历写的项目难度降低一些</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/ed3e15f1874146b08c77594a2db5c520"
     },
     {
@@ -841,14 +841,14 @@
     },
     {
         "uuid": "b418e440a0ad43c9b90c84d5bf50c0f5",
-        "title": "标题未找到",
+        "title": "#一人分享一道面试手撕题#【题目来源】 公司/部门：腾讯-微信支付后台开发 面试",
         "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"><a class=\"subject font-green\" href=\"/creation/subject/d57181d37f7a43a89c9631419365446f\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#一人分享一道面试手撕题#</a>【题目来源】<br/>公司/部门：腾讯-微信支付后台开发<br/>面试轮次：二面<br/>考察形式：共享屏幕现场编写<br/><br/>【原题描述】<br/>实现一个函数，用于验证二叉搜索树(BST)的有效性。<br/>给定二叉树根节点，判断该树是否是有效的二叉搜索树。<br/>有效BST定义为：<br/>- 左子树所有节点值 &lt; 当前节点值<br/>- 右子树所有节点值 &gt; 当前节点值<br/>- 左右子树也必须是BST<br/><br/>示例：<br/>输入：[5,1,4,null,null,3,6]<br/>输出：false（根节点5的右子树中包含值3，小于5）<br/>要求：时间复杂度尽可能优<br/><br/>【面试官关注点】<br/><br/>是否理解BST的本质定义（不仅是左右孩子大小关系）<br/>能否想到利用上下界递归验证的思路<br/>边界条件处理：空树、int边界值、重复值处理<br/>代码简洁性和变量命名可读性</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/b418e440a0ad43c9b90c84d5bf50c0f5"
     },
     {
         "uuid": "8c85a6dd70c745d39344dd12d6594ef3",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节tts后端校招一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">2025年9月16下午两点<br/>1.自我介绍<br/>2.随便介绍一段功能（实习或项目）<br/>根据功能深入询问细节（略）-重点<br/>3.Setnx是什么操作，实现什么功能，这个指令内部怎么实现的（讲了set if no exit，好像不完全是他想要的答案）？<br/>4.Lua脚本最终对redis发出的指令是一条还是多条？Redis内部如何执行lua脚本确保他的原子性的？<br/>5.Redis中key是主动删除还是被动删除？Redis怎么知道key是否过期？<br/>6.惰性删除和定期删除各自的优劣<br/>项目相关<br/>7.模板模式用在什么场景？模板模式方法的拆分粒度如何确定？<br/><br/>手撕（15-20min）：1.单例模式 2.三个字符串的最长公共子序列（要求返回字符串）-就写出了递推方程思路正确</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/8c85a6dd70c745d39344dd12d6594ef3"
     },
     {
@@ -877,8 +877,8 @@
     },
     {
         "uuid": "39fa69ddb3be43fd88a2b4f92be2d321",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "网易校招Java后端一面技术面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. HashMap在JDK1.8中的优化及并发安全问题<br/>2. JVM内存结构中方法区与元空间的关系<br/>3. G1垃圾回收器的工作机制与调优参数<br/>4. ThreadLocal的实现原理与内存泄漏防范<br/>5. MySQL的MVCC实现原理与幻读解决<br/>6. Redis的Hash冲突解决方案及扩容机制<br/>7. Spring循环依赖的三级缓存解决原理<br/>8. Spring Boot Starter自动配置的SPI机制<br/>9. TCP拥塞控制算法与流量控制区别<br/>10. 算法：实现LFU缓存淘汰策略<br/>11. 类加载器双亲委派模型的打破场景<br/>12. AQS同步器原理及ReentrantLock实现<br/>13. 数据库索引下推优化原理<br/>14. 分布式Session一致性方案<br/>15. 消息队列事务消息实现机制</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/39fa69ddb3be43fd88a2b4f92be2d321"
     },
     {
@@ -913,8 +913,8 @@
     },
     {
         "uuid": "dfa26a55573346dca77f243c10a1d14b",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "9.腾讯PCG后端实习一面挂",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">2025.3.20下午3点<br/>1.面试官介绍业务<br/>2.自我介绍<br/>3.说一说布隆过滤器的实现，为什么用谷歌的布隆过滤器（轻量级）？，有没有看过他的源码？（没有）<br/>4.实习和区块链有关，对他了解吗？（做二次开发，没碰底层，简单介绍区块链）<br/>5.说一说简历里面写的oom问题？这里有用到jinfo等命令吗？（没有，比较简单的oom问题没用到这些命令）画火焰图了吗？（没有）？<br/>6.线程池使用的全过程？有监控过线程池吗？（没有）<br/>7.有没有解决过死锁问题？（没遇到过，但是看过很多解决方案）<br/>8.java锁的实现方式？<br/>9.分布式锁的实现方式？运用？（他说线程池经常配合锁一起用，没这样用过）<br/>10.Linux上出现很多time wait怎么排查（不会）<br/>11.三次握手四次挥手的过程中服务器的状态（不会）<br/>12.用过socket吗？（课设用过，他说那过）<br/>13.长链接用过吗？（没有）<br/>14.用的Docker版本多少？（不记得）<br/>15.Docker相关命令<br/>16.Docker底层是docker d还是container d（没听说过）<br/>17.Docker用的是桥接还是host（应该是用桥接，面试官：所以你只是会用命令但是并没有了解过底层是吧-对）<br/>18.进程、线程、协程的区别？进程间的通信方式？还知道其他的吗，比如java机这种？（没听说过），有使用过共享内存吗？（没有）<br/>19.所以没有手写过协程之类的是吧？（没有）<br/>20.他说给了个简单的Sql执行-sql语句：select A.a A.g from user where a=1,b=2 group by g 有两个索引（a,b,c）和（a）他会走索引吗-会吧（答错了，他说有group排序就不行，但是查了发现a，b好像确实还是用到索引了，要是联合索引包括g，group也会用到索引）<br/><br/>算法：手撕LRU（让我看完题目问我思路，说了双向链表或者大顶堆，问我多久能写完，想了一下自己也不太清楚什么时候能搓完，他说java搓大顶堆挺耗时间的，那换一道，结果换了没写出来，太菜了）<br/><br/>面评脏</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/dfa26a55573346dca77f243c10a1d14b"
     },
     {
@@ -991,8 +991,8 @@
     },
     {
         "uuid": "b50e8c60e34143dfa81fffa58fb4699f",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "小鹏汽车二面（没绷住）",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">纯八股<br/>redis大key是什么，你有什么解决方案吗，你认为多大是大，会有什么影响，如何拆分呢，（完全不会）<br/>redis实现滑动窗口的方法，做什么的知道吗<br/>使用mq的注意事项，幂等性的实现方法（要两种以上）<br/>策略模式的演化，是从什么模式演变过来的<br/>Kafka的消息重平衡<br/>springboot使用到的设计模式，哪里用到了设计模式<br/>131的阶乘会有多少个0<br/><br/>这次我个人觉得面试很离谱，完全答不上来，实习一点没问<br/><a class=\"subject font-green\" href=\"/creation/subject/c202f5959cc744ccb0e4cdfcc5a5459d\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#java秋招[话题]#</a> <a class=\"subject font-green\" href=\"/creation/subject/3871fa77df8f40faa40474d054dbe5e3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#面试问题记录#</a> <a class=\"subject font-green\" href=\"/creation/subject/b19c581888b64c7396ade3e8f2ba415c\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#八股文#</a> <a class=\"subject font-green\" href=\"/creation/subject/077c642a0a404755800ac88b60b00d28\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#kpi#</a> <a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/b50e8c60e34143dfa81fffa58fb4699f"
     },
     {
@@ -1009,26 +1009,26 @@
     },
     {
         "uuid": "cf966614655e42039dcab9b63ed12774",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "SHEIN java后端开发一面校招面经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. 讲一个你认为你做的比较好的项目<br/>2. 任务调度那块儿你是为了解决什么问题<br/>3. 现在市面上也有类似的平台，为什么不直接用，要自己去做<br/>4. 你怎么理解中台两个字<br/>5. 什么样的东西能放在中台<br/>6. 你在开发或者线上有碰到过什么问题吗<br/>7. Spring中的NESTED知道吗<br/>8. 你有碰到过数据库与redis缓存一致性的问题吗？你是如何解决的？<br/>9. 延迟双删策略具体是怎么执行的？如果第二次删除也失败了怎么办？<br/>10. 如果当前系统数据库需要写入数据，同时要给下游发送一条消息，这种情况下怎么确保数据的一致性？<br/>11. 消息发送失败了怎么解决？<br/>12. 如果在写数据的时候系统死机了怎么办？<br/>13. java中线程池的执行流程是怎么样的？<br/>14. 如果你是这个框架的作者，你为什么要这样设计这个流程呢？<br/>15. 工作队列可以用非阻塞队列吗？为什么<br/>16. 假如产品给了你一个数据查询场景，一个表有20个字段，在前端页面提供了15个可填写字段，也可以不填，可以数据筛选，同时支持模糊查询，将查询的数据展示出来。你觉得这个需求实现起来最困难的点是什么？<br/>17. 你觉得应该如何解决这个问题</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/cf966614655e42039dcab9b63ed12774"
     },
     {
         "uuid": "ec96016518f54487885189e93a8a102d",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "小红书校招后端开发一面 50min",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.k个有序链表转为一个有序链表<br/>2.输入一个数字，转为汉字<br/>如：0-&gt;零<br/>4399-&gt;四千三百九十九<br/>-960424-&gt;负九十六万零四百二十四<br/>3.自我介绍<br/>4.秒杀怎么限流<br/>5.反问</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/ec96016518f54487885189e93a8a102d"
     },
     {
         "uuid": "7d80122292844675906fbaad1bef2d53",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "小红书后端校招二面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. 实习中一个工作的核心难点<br/>2. 用什么技术解决了哪些<br/>3. springboot服务启动时需要进行预热，我需要一个触发机制，能够让我自己发起的一些请求去调用我自己预热的一些前置，需要继承什么样的内部实现<br/>4. 我们在平时编码或者设计阶段，我需要考虑什么样的一些优化方式来尽量减少我java的对于内存的申请或者GC<br/>5. 减少对象创建这部分有什么样的思路<br/>6. 什么样的操作更消耗CPU？<br/>7. 怎么样的计算比较消耗CPU？<br/>8. 怎么排查一个java程序，什么样的方法占了更多的CPU，或者说有什么样的工具？<br/>9. jstack只能看内存快照，比如我想看10分钟内占用CPU最多的方法是什么？<br/>10. arthas怎么去做的？<br/>11. 针对一个提交任务的功能模块，不同任务的提交逻辑可能不一样，我们一般会采用什么样的设计模式去设计它，能够让它灵活去做扩展<br/>12. 一次RPC调用，从A机器到B机器的调用，中间经过了哪些实现的细节<br/>13. 通过服务发现知道了订阅了哪些节点，假如有100个节点，我怎么知道应该去调用那个节点<br/>14. 哈希策略一般使用的场景是什么<br/>15. 序列化的协议了解有哪些？他们之间的性能差异？<br/>16. 手撕：3个线程，轮流打印1 2 3，重复五次</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/7d80122292844675906fbaad1bef2d53"
     },
     {
         "uuid": "e2a04780e7c04d8daf3ad2f3049e0130",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "小红书一二面凉经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">部分问题有点记不到了，之前面试的，感觉应该是不契合（也有可能菜），一个后端AI开发岗<br/><br/>一面（65min）<br/>1.自我介绍<br/>2.实习项目拷打（30min）<br/>3.Redis数据结构底层及使用场景<br/>4.分布式锁八股<br/>5.redis过期删除<br/>6.Cow原理及使用<br/>7.java基础集合作用/底层<br/>8.场景题：设计一个简单登录系统，Token刷新，过期时间考虑....<br/>9.手撕：手写hashmap<br/><br/>总结：一面很简单，完全不压力<br/><br/>二面（60min）<br/>1.自我介绍<br/>2.实习拷打（20min）<br/>3.大模型执行流程<br/>4.rag的原理和流程，项目如何使用<br/>5.mcp概念，交互类型，项目设计<br/>6.不同向量数据库如何选型<br/>7.workflow设计<br/>8.提示词工程如何使用<br/>9.手撕lru缓存，秒吃<br/>10.反问<br/><br/>总结：发挥还行，感觉不太契合，反问说想招一些有大模型调优，强化学习等了解或实践能力的同学<br/><br/>隔天挂～<img data-card-emoji=\"[喝可乐]\" data-card-nowcoder=\"[喝可乐]\" src=\"https://uploadfiles.nowcoder.com/images/20220815/318889480_1660553763434/7A0C3C39D0D8037360A2B600921D52C5\" style=\"width:18px; height:18px\"/></div>",
         "url": "https://www.nowcoder.com/feed/main/detail/e2a04780e7c04d8daf3ad2f3049e0130"
     },
     {
@@ -1039,14 +1039,14 @@
     },
     {
         "uuid": "c82aad16c3b34f6f9705b141fb251853",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "深圳高益科技有限公司笔试",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">选择题挺简单的，都是Java基础，<br/>简答题：<br/>sql：<br/>1.问查询最后登录的1000名，字段有最后登录时间，<br/>2.修改含有某个字段修改为0，<br/>3.查询重复的昵称，<br/>4.top查看是内存飙高99%，怎么排查，<br/>5最左前缀是什么，<br/>6.hashmap是线程安全的吗，多线程会发生什么问题<br/>算法题：<br/>递归求阶乘，<br/>一个是数组里面求相加等于100的组合只要写思路就可以<a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/c82aad16c3b34f6f9705b141fb251853"
     },
     {
         "uuid": "2b949de9517643af9a4112288bb6acec",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "二面全程问 go，啥也不会，化身腾黑子",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"><img data-card-emoji=\"[发火]\" data-card-nowcoder=\"[发火]\" src=\"https://uploadfiles.nowcoder.com/images/20220815/318889480_1660553763890/5072FC474BC4CF9234FABC22E54A999A\" style=\"width:18px; height:18px\"><img data-card-emoji=\"[发火]\" data-card-nowcoder=\"[发火]\" src=\"https://uploadfiles.nowcoder.com/images/20220815/318889480_1660553763890/5072FC474BC4CF9234FABC22E54A999A\" style=\"width:18px; height:18px\"><img data-card-emoji=\"[发火]\" data-card-nowcoder=\"[发火]\" src=\"https://uploadfiles.nowcoder.com/images/20220815/318889480_1660553763890/5072FC474BC4CF9234FABC22E54A999A\" style=\"width:18px; height:18px\"/></img></img></div>",
         "url": "https://www.nowcoder.com/feed/main/detail/2b949de9517643af9a4112288bb6acec"
     },
     {
@@ -1075,8 +1075,8 @@
     },
     {
         "uuid": "5e25a86b44f54ae9afb9f119724aa914",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "快手后端日常实习一面凉经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、实习介绍和项目难点介绍<br/>2、HashMap的结构和特点<br/>3、java的三大特性怎么理解<br/>4、mysql事务四大特性及实现原理<br/>5、mysql索引为什么使用B+树<br/>6、进程和线程的区别<br/>7、spring的ioc、aop<br/>8、动态代理了解过吗，jdk动态代理和cglib动态代理<br/>9、redis的缓存击穿、穿透、雪崩是什么，怎么解决<br/>10、了解哪些设计模式<br/>11、如何在10亿个数中取最大的100个数<br/>算法：二叉树的最大路径和</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/5e25a86b44f54ae9afb9f119724aa914"
     },
     {
@@ -1087,8 +1087,8 @@
     },
     {
         "uuid": "6f627fd0f88b440e97f627d7eed20ec7",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "腾讯后端实习二面 27实习",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.实习介绍<br/>2.项目介绍<br/>3.一个5L杯子，一个3L杯子，无限的水，怎么得到 4L的杯子<br/>4.100个苹果，一次只能拿1-5个，两个人互相拿，怎么保证赢<br/>5.了解大模型吗，大模型底座有哪些<br/>6.大模型实现的原理大概是怎样的<br/>7.TCP挥手的过程<br/>8.CLOSE WAIT状态<br/>9.TIME WAIT状态<br/>10.死锁产生的条件，怎么避免死锁<br/>11.场景题:有一个数据库表，其中两个字段QQ号和登录时间，用SQL语句写出查找一个QQ号的最后登陆时间的语句，有1亿个QQ号，怎<br/>么加快查找的过程<br/>12.代码题:写一个函数，返回一个A，B，C，D中其中一个字母，其中A的概率是10%，B的概率是20%，C的概率是30%，D的概率是40%(业务应该是抽奖的活动，题目与业务相关)<br/>13.代码题:随便写一个常用的排序算法</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/6f627fd0f88b440e97f627d7eed20ec7"
     },
     {
@@ -1099,8 +1099,8 @@
     },
     {
         "uuid": "0dd8140a64f845a18db1c35270a0ca2d",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "小鹏汽车后端开发校招面经 攒人品",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. 内镜可视化手术导航系统用到200组真人病例，该系统是已经投入使用了吗？<br/>2. 1mm的精度控制是你的工作对它有什么影响吗？<br/>3. 五视图渲染是什么？用什么实现的？是串行的还是并行的？<br/>4. 内镜图的获取的元数据是视频还是图片？<br/>5. 有没有了解过python的GIL锁？<br/>6. 这个项目选python是基于师兄之前的工作还是自己选的？<br/>7. 生活服务平台项目是学校在开始用了吗？<br/>8. 百万订单表的覆盖索引的设计的原理是什么？<br/>9. 你优化后时间从609ms到1ms是自己做的监控还是怎么样的？<br/>10. 你的100万条数据是怎么来的？<br/>11. 高并发秒杀系统为什么要用redis+lua？<br/>12. 可以用分布式锁实现吗？<br/>13. redis比mysql抗压能力强的主要原因是什么？<br/>14. MySQL有I/O多路复用吗？<br/>15. 简单介绍实习的主要工作<br/>16. 多租户、多空间的资源调度是怎么调度的？<br/>17. 任务管理除了有一些底层资源的要求以外，还有没有说比如说他要做的数据量级<br/>18. 任务执行的耗时和状态同步有做吗？<br/>19. 日常和峰值情况下的任务有多少？<br/>20. 在这个工作中你有遇到什么性能瓶颈吗？<br/>21. 队列资源管理这部分你有了解过这部分一些开源的平台吗？比如编排的一些工具？<br/>22. redis有哪些数据结构？<br/>23. Zset底层是怎么实现的？<br/>24. 跳表是怎么样的结构？<br/>25. redis内存淘汰策略有哪些？<br/>26. mysql的主从同步机制是怎么样的？<br/>27. mysql有哪些锁？<br/>28. MVCC知道吗？<br/>29. mysql隔离级别有哪些？默认是哪个？<br/>30. MVCC完全能把锁替代吗？为什么？<br/>31. 手撕：lc原题环形链表Ⅱ。我用的快慢指针，问我为什么它们一定会相遇，能讲一下原理吗？</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/0dd8140a64f845a18db1c35270a0ca2d"
     },
     {
@@ -1153,8 +1153,8 @@
     },
     {
         "uuid": "7b7cd989fcd040c8b79cc14dca30e1d3",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "美团Java后端实习二面-27实习",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">二面 45min<br/>1.先介绍了实习的项目<br/>2.为什么这么设计？你自己的方案还是探讨出来的方案<br/>3.你说的并发问题剧具体指哪一步的并发<br/>4.分布式锁的key是什么 锁的粒度还能优化吗<br/>5.你说的优化后响应时间减少了  是具体因为什么减少你有研究过么  为什么会有读写锁冲突？ 你仔细想想会存在么<br/>6.直接看log就能断定优化了么？<br/>7.那你压测关注什么指标  jmeter具体参数如何设置<br/>8.要是让你来测你写完的接口能不能抗住预期的并发量 比如你说的这么多用户 你会如何压测 详细说说</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/7b7cd989fcd040c8b79cc14dca30e1d3"
     },
     {
@@ -1183,8 +1183,8 @@
     },
     {
         "uuid": "96f508d67e9b4e9aa8d5a4b7e7f3b0b6",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "小红书java后端开发二面-27实习",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.问项目<br/>2.spring cache是什么介绍一下<br/>3.spring cache用redis有哪些操作<br/>4.redis性能为什么这么好?还有吗?(答的redis的全局 hashdir结构)还有吗?(回答的10多路复用，网络模型epoll)<br/>5.mysql和 redis的数据不一致的情况怎么解决的?<br/>6.mysql的数据是如何同步到redis中的?<br/>7.具体讲讲epoll和select的区别<br/>8.算法:给两个有序数组，如果当他们合并的情况下依然有序，然后找到这个合并数字的中位数，先用双指针O(n)然后叫用logn写</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/96f508d67e9b4e9aa8d5a4b7e7f3b0b6"
     },
     {
@@ -1195,8 +1195,8 @@
     },
     {
         "uuid": "dc0e6eb37f8741c28209e03d037ff426",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节日常实习后端一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">时长一个小时<br/>个人介绍<br/>问实习<br/>1.介绍自己负责的一个模块？<br/>2.怎么保证MySQL和ES的一致性？<br/>3.实习项目对公司的价值？<br/>问项目<br/>4.介绍自己项目的一个亮点<br/>5.setNx有什么缺点？<br/>6.怎么根据aop和mdc实现全链路日志追踪的？<br/>问八股<br/>7.介绍一下Java集合框架（介绍了ArrayList，LinkedList，HashSet，HashMap）<br/>8.介绍一下Hashmap的扩容因子和初始容量<br/>9.HashMap在多线程下的问题？<br/>10.具体是put操作的哪个部分会出现问题？<br/>11 面向对象三大特性（多态回答的不是很好，这部分八股忘了，靠自己理解描述的）<br/>12. 如何实现多态<br/>13.设计模式<br/>14. 什么是懒加载？<br/>15. Spring的控制反转<br/>16. Spring创建对象是单例吗？<br/>17. Bean的管理机制存在哪些问题？<br/>18.什么是索引？<br/>19.MySQL中有哪些索引失效的情况？索引的优点和缺点？<br/>20.索引的存储结构？为什么树低查询效率高？<br/>算法题：<br/>说是有两个的 一个简单一个困难，不过让使用自己的电脑编译器，没提前准备好耽误了一些时间，第二个算法题就没做<br/>1.反转链表<br/>2.说一下有什么匹配字符的算法？<br/><br/>半个小时之后约二面<br/><br/><a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a> </div>",
         "url": "https://www.nowcoder.com/feed/main/detail/dc0e6eb37f8741c28209e03d037ff426"
     },
     {
@@ -1213,8 +1213,8 @@
     },
     {
         "uuid": "6943ca151b314553989784b08d1b21dd",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "腾讯后端实习一面 1h",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.为什么mysql使用B+树 而不是跳表<br/>2.流量高 怎么预防?<br/>3.既然提到了nginx负载均衡 你知道哪些负载均衡的方法?<br/>4.发生死锁 程序的表现<br/>然后给40分钟写三道算法题 a了一道 还有一道没写完但是说了思路 另一道没时间看<br/>没有常规八股 很多都是结合了具体场景来问 包括在pdd里面多进程多线程的应用场景 流量打高的问题排查过程等</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/6943ca151b314553989784b08d1b21dd"
     },
     {
@@ -1231,8 +1231,8 @@
     },
     {
         "uuid": "931c41259c414da08c23c0ab4848cf55",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "27日常实习京东科技后端二面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.介绍一下类加载的流程？<br/>2.怎么样才算双亲委派，怎么打破双亲委派？<br/>3.如果要你自己写一个string类打破双亲委派怎么做？<br/>4.见过哪些场景是必须要打破双亲委派的？<br/>5.能否介绍一下 MVCC？<br/>6.最近都在看一些什么东西？<br/>7.transformer了解吗<br/>8.在实习时是否做过一些 agent 相关的工作？<br/>9.做过拿 AI 做过什么东西吗？或者使用过哪些 AI 工具？<br/>10.对RAG这块大概学到什么程度？能否讲一下对 RAG 怎么去设计？<br/>11.Rerank 需要传哪些参数？它怎么知道查询出来的 20 条数据中哪些更符合结果（里面前 10 条）？<br/>12.拼团系统整个项目的设计难点是什么（技术上的难点也可以）？<br/>13.切量这块儿是怎么做到的？<br/>14.实习项目中有没有觉得还有哪些做的比较好的？或者有哪些技术难点？<br/>15.volatile 的原理大概能讲一下吗？<br/>16.两个线程都要去读并加工写同一个 volatile 修饰的属性，另一个线程怎么知道应该要先去主内存读？它们之间的通知机制是怎么实现的？<br/>17.数组阻塞队列的底层数据结构有了解吗？<br/>18.RPC 框架有使用过吗？a 服务要调 b 服务，它们都注册到注册中心里面，调用链路是什么样子的？<br/>19.AQS 原理大概能讲一下吗？<br/>20.在分布式框架或中间件方面哪块儿了解的还比较多一些？<br/>21.Kafka 和 Rabbitmq 这俩 MQ 有什么区别吗？<br/>22.Kafka 的顺序写是指的什么？<br/>23.Kafka 的高可用是怎么实现的？<br/>24.Kafka 的选举机制是怎么实现的？<br/>25.spring 源码有了解吗？</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/931c41259c414da08c23c0ab4848cf55"
     },
     {
@@ -1321,8 +1321,8 @@
     },
     {
         "uuid": "21f8633225794b9a8238825420e45d63",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节Golang后端实习一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.实习介绍<br/>2.Golang的栈增长机制?为什么Goroutine 初始栈是2KB，而线程栈通常是MB级?<br/>3.sync.Mutex的实现原理:(1.18前后版本差异)?为什么要引入饥饿模式?<br/>4.Golang中for range 遍历 slice/map 时，变量的内存地址是否变化?为什么会出现“遍历赋值后值不对”的问题?<br/>5.Golang的interface{}空接口的底层实现?为什么空接口可以接收任意类型?类型断言的两种方式及区别?<br/>6.分布式 ID 生成方案?<br/>7.高并发场景下，如何保证接口的幂等性?<br/>8.场景题:抖音直播间弹幕每秒百万级，如何设计一个高可用的弹幕推送系统?<br/>9.手撕每k个链表反转</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/21f8633225794b9a8238825420e45d63"
     },
     {
@@ -1417,8 +1417,8 @@
     },
     {
         "uuid": "853c2d0494ad4e5482185ba1f3fde97d",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "Java社招面试，我遇到的最刁钻的问题",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">技术性问题：如果服务器全崩了该怎么办？如何预防？服务器性能不足，但又要实现高并发、高性能、高可用的目标，该怎么办？<br/><br/>我提出了自己的解决办法，人家又问：如果Redis崩了怎么办，如果MySQL服务器全部宕机了怎么办？……非要问到你一个字都答不上来不可。<br/><a class=\"subject font-green\" href=\"/creation/subject/4164cdcbbd8e4c2da3fa20db00d3a27c\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#面试官问过你最刁钻的问题是什么？#</a></div>",
         "url": "https://www.nowcoder.com/feed/main/detail/853c2d0494ad4e5482185ba1f3fde97d"
     },
     {
@@ -1429,8 +1429,8 @@
     },
     {
         "uuid": "af27dce137e44794974a12c0bea2358e",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "虾皮后端golang实习一面凉经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、询问城市、什么时候到岗、实习时长，上一段实习为什么离职<br/>2、实习工作询问<br/>3、redis分布式锁怎么实现的，怎么确保加锁成功，怎么删锁(想问的应该是lua脚本保证原子性)<br/>4、大模型工作中主要做了哪些东西?介绍一下你的大模型工作流。<br/>5、了解MCP吗，和大模型有哪些关系<br/>6、介绍一下堆，以大顶堆为例，介绍一下堆的插入删除和调整过程<br/>7、知道堆的特性了，给出295.数据流的中位数的思路(使用两个堆调整)<br/>8、介绍-下Go中的channel，channel如何控制并发的流程<br/>9、如果说一个提供下载图片的网站，同时最多下载10张，如何使用channel控制(将channel容量为10channel满了即等待)(理解错意思了，以为说每个人最多下10张。。。)<br/>10、介绍一下Go的context的功能<br/>11、context取消了，那么他的子协程通过什么来感知的然后取消。(done的成员变量感知)<br/>12.go的结构体方法和指针方法的区别<br/>13、go的继承和接口<br/>14、介绍-下GMP模型<br/>15、协程创建的时机<br/>16、M的创建时机，什么时候销毁M<br/>17、P的创建时机，P的数量怎么确定，有什么参数可以初始化<br/>18、k8s有用过吗<br/>19、介绍一下redis的底层数据结构，介绍一下zset的底层结构，查询平均时间复杂度<br/>20、redis的布隆过滤器<br/>手撕:32位的整型数字的某一位变成1(位运算或)</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/af27dce137e44794974a12c0bea2358e"
     },
     {
@@ -1465,14 +1465,14 @@
     },
     {
         "uuid": "b812cfe70d584d1f8b246ba10af2a92f",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "汇川技术C++开发二面-校招面经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、实习介绍<br/>2、你觉得自己的优势和劣势在什么地方呢？<br/>3、给自己打三个标签的话，你会怎么打呢？<br/>4、能说一下自驱力吗？包括长远的思路，以及日常工作中和同事的相处<br/>5、你是 12 月份出来实习，别人都三四月份，除了说竞争压力比较小，你为什么会选择在 12 月份？其他原因是什么呢？<br/>6、你当时学的技术栈是什么呀？<br/>7、当时面试进去的时候是以 C++ 去面的，然后后来到公司里面才转成 Go 的，是吗？<br/>8、你刚刚说到会定期向上级汇报，可以说一下你汇报的内容吗？<br/>9、每三个月完成什么样目标？可以总结提炼一下吗？<br/>10、手上还有其它的 offer 吗？<br/>11、后面有什么打算？<br/>12、你投了哪些制造业公司？<br/>13、你对汇川有哪些了解？<br/>14、汇川吸引你的点是什么？<br/>15、投递 C++ 岗位的人选很多，可以说一下为什么我要选择你吗？</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/b812cfe70d584d1f8b246ba10af2a92f"
     },
     {
         "uuid": "97c88f1b5181400fbd374e5034d975d2",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "快手Java后端开发二面-校招面经",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.ThreadLocal的原理和存在的问题<br/>2.ThreadLocal在Spring当中的应用<br/>3.ThreadLocalMap和HashMap的区别<br/>4.线程池的使用，核心参数设计<br/>5.如何根据业务需求动态修改线程池参数<br/>6.动态线程池实现原理<br/>7.对比Zookeeper和Redis实现分布式锁的优劣<br/>8.阐述设计一个Redis分布式锁需要考虑的关键问题<br/>9.追问如何评估Redis锁的超时时间<br/>10.阐述一次慢SOL优化的完整过程</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/97c88f1b5181400fbd374e5034d975d2"
     },
     {
@@ -1693,14 +1693,14 @@
     },
     {
         "uuid": "cc61a79c974347a5ae9cafc8f78c3a7b",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "京东科技后端开发实习一面 50min",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、二级缓存以及一致性<br/>2、限流算法区别<br/>3、分布式定时任务<br/>4、防超卖思路--redis层、消费者层、MySQL层<br/>5、乐观锁悲观锁区别以及为什么这么用<br/>6、流量激增，怎么解决这个服务器的压力的问题<br/>7、spring ai中的advisor是什么?<br/>8、RAG流程<br/>9、阿帕奇tika的支持的文档切片策略<br/>10、嵌入模型用的哪一个<br/>11、rerank模型<br/>12、怎么优化RAG提高召回率?<br/>13、MCP和functioncall区别<br/>14、MCP底层基于什么协议实现<br/>15、项目中怎么使用的<br/>16、mcp协议怎么实现一个鉴权和授权<br/>17、concurrenthashmap怎么解决哈希冲突的<br/>18、链表什么时候转为红黑树，又什么时候变为链表<br/>19、aqs<br/>20、threadlocal</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/cc61a79c974347a5ae9cafc8f78c3a7b"
     },
     {
         "uuid": "b40d66b32f094ed6b4f0bdb5570d6a4d",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节实习Java后端二面 45min",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.项目介绍<br/>2.实习项目细节拷打（问了需求里的功能指标怎么做的，上线流程是怎么做的，上线是否存在问题等）<br/>3.Spring的AOP是什么？底层是怎么实现的？<br/>4.你用过Spring有哪些注解？@Autowired和@Resource的区别是什么？<br/>5.项目有哪些场景使用了分布式锁？还知道其他分布式锁的实现方式吗？<br/>6.大任务拆分为多个小任务执行可以使用什么多线程框架？CompletableFuture有线程池吗？<br/>7.redis有哪些数据类型？跳表是怎么设计的？布隆过滤器怎么设计的？<br/>8.简历上算法专利细节提问和论文算法实现细节提问<br/>9.算法题：链表重排</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/b40d66b32f094ed6b4f0bdb5570d6a4d"
     },
     {
@@ -1909,8 +1909,8 @@
     },
     {
         "uuid": "48c90dfd379148cb86e1381b189f005d",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "25.12.26 九坤量化 qd（python-期权）",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1h30min<br/>感觉完全大放水了但是我太菜了……<br/>对实习经历好像很满意，简单问了一下为什么不读研，然后问了一下实习，十分钟不到开了coding（用JupyterNotebook做的）。<br/>1. 简单的sql基础<br/>2. 订单薄（写了一个Orderbook类，包含买方卖方订单，还有交易的功能）<br/>3. 数据处理题（写一个pipeline，三个类，一个处理缺失值，一个数据类型转换，一个处理字符串，需要配置处理的行数列数），这题完全是贴合我简历给的，但是我之前没考过这样的所以没有准备……</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/48c90dfd379148cb86e1381b189f005d"
     },
     {
@@ -1993,8 +1993,8 @@
     },
     {
         "uuid": "d8480f0751ab44a7917b2ddf0540e6a7",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "日常实习-淘天Java后端一面 1h",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.项目介绍<br/>2.实习拷打 40分钟<br/>3.竞赛+开源+课题论文 +ai20分钟 例如deepseek训练成本低的原理<br/>4.八股 15分钟<br/>4.1 5层和7层区别<br/>4.2 多出来两层一般是用来干什么<br/>4.3 为什么要4次<br/>4.4 打开网页发生了什么<br/>4.5 tcp和udp区别，面试间用什么协议，怎么知道是什么协议<br/>4.6 进程调度算法<br/>4.7 死锁原因和怎么解决<br/>4.8 磁盘寻道<br/>4.9 了解的排序算法<br/>4.10 归并时间复杂度<br/>4.11 哪些是稳定的排序<br/>4.12 java锁<br/>4.13 线程安全的hashmap有什么<br/>4.14 chw实现原理<br/>4.15 了解最新的gc器<br/>4.16 jit<br/>4.17 graalvm<br/>4.18 arraylist和linklist 海量写入删除用什么<br/>4.19 b+树<br/>4.20 为啥用b+树</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/d8480f0751ab44a7917b2ddf0540e6a7"
     },
     {
@@ -2035,14 +2035,14 @@
     },
     {
         "uuid": "6daef5741bbb466ea4f2ba5403584981",
-        "title": "标题未找到",
+        "title": "#今年你最想重开的一场面试是？# 上周面 Go 后端岗，被问 “如何用 Go 实",
         "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"><a class=\"subject font-green\" href=\"/creation/subject/9791bcbc7264422fb78cbdd42a4664b3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#今年你最想重开的一场面试是？#</a><br/>上周面 Go 后端岗，被问 “如何用 Go 实现高并发下的资源安全访问”，我先讲了互斥锁 sync.Mutex 的基础用法，接着补充了读写锁 RWMutex 的适用场景，还举了项目里用 channel 做资源池控制的例子，最后提了 GMP 调度下协程安全的注意点。面试官跟着追问细节，我顺着讲了实际压测时的调优数据。面完当天就收到了 offer，这轮稳在把 “知识点 + 项目落地” 绑在了一起。</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/6daef5741bbb466ea4f2ba5403584981"
     },
     {
         "uuid": "3631044b49e341f7b62733656fe7d41e",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "快手日常实习Java后端一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">八股 + 项目<br/>1. 项目介绍<br/>2. 实习成果介绍 + 拷打（20min）<br/>3. 算法：反转链表<br/>4.  JIT 是什么，作用？<br/>5. 操作系统进程的调度过程<br/>6. 什么是内核态？什么是用户态？内核态和用户态的进程？<br/>7. 进程和线程的状态，切换的时机<br/>8. 线程的 waiting 状态和 timed_waiting 的区别<br/>9. redis的数据结构有哪些<br/>10. redis的线程模型介绍<br/>11. 说一下BIO、NIO、AIO<br/>12. 知道的 IO 模型，介绍下<br/>13. JVM内存区域的划分，每一部分的作用<br/>14. 垃圾回收算法以及垃圾回收器<br/>15. 详细比较 CMS 和 G1 的区别？优缺点以及使用场景<br/>16. MySQL 中的内存碎片说一下</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/3631044b49e341f7b62733656fe7d41e"
     },
     {
@@ -2203,8 +2203,8 @@
     },
     {
         "uuid": "e4b79317ea8e47058adb3b153385b3b7",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "哈啰实习一面-Java后端40min",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.实习介绍<br/>2.说下你参与实验室项目有哪些亮点<br/>3.刚才提到热词排行榜使用zset实现，分数是怎么计算的？跳表的数据结构是怎么样的？<br/>4.说下Java集合有哪些？线程安全的集合有哪些？ConcurrentHashMap的底层结构是怎么样的？<br/>5.说下你使用过哪些多线程框架？CompletableFuture实现原理是怎么样的？它是阻塞的吗？<br/>6.说下数据库的事务的特性？MySQL的事务是怎么实现的？<br/>7.MySQL中查询SQL语句的执行过程是怎么样的？<br/>8.Spring的拦截器和过滤器的区别是什么？<br/>9.说下Spring的IoC和AOP？<br/>10.设计一个积分排行榜，你会怎么做？<br/>11.算法题：零钱兑换</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/e4b79317ea8e47058adb3b153385b3b7"
     },
     {
@@ -2251,14 +2251,14 @@
     },
     {
         "uuid": "c1d3630b2fa04506a1d8abdd13f308b3",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "网易校招Java开发一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1. HashMap在JDK1.8中的优化及并发安全问题<br/>2. JVM内存结构中方法区与元空间的关系<br/>3. G1垃圾回收器的工作机制与调优参数<br/>4. ThreadLocal的实现原理与内存泄漏防范<br/>5. MySQL的MVCC实现原理与幻读解决<br/>6. Redis的Hash冲突解决方案及扩容机制<br/>7. Spring循环依赖的三级缓存解决原理<br/>8. Spring Boot Starter自动配置的SPI机制<br/>9. TCP拥塞控制算法与流量控制区别<br/>10. 算法：实现LFU缓存淘汰策略<br/>11. 类加载器双亲委派模型的打破场景<br/>12. AQS同步器原理及ReentrantLock实现<br/>13. 数据库索引下推优化原理<br/>14. 分布式Session一致性方案<br/>15. 消息队列事务消息实现机制</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/c1d3630b2fa04506a1d8abdd13f308b3"
     },
     {
         "uuid": "be9649ea767c43df9052cc1baa77f263",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "星辉游戏C++服务端开发校招一面",
+        "content": "1、项目介绍 2、你在腾讯实习的这段时间，项目主要是做什么东西？你在其中做了哪些内容？ 3、项目中的技术难点/挑战？ 4、日志器中的多线程并发写日志是怎么实现的？ 5、多线程在做什么工作？ 6、生产的数据是放到一个池子里面吗？写到不同文件的日志也是放到一个池子里吗？ 7、会出现多线程写同一个文件的情",
         "url": "https://www.nowcoder.com/feed/main/detail/be9649ea767c43df9052cc1baa77f263"
     },
     {
@@ -2275,8 +2275,8 @@
     },
     {
         "uuid": "85a1f2808af94be08f4df81245fb4ef4",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "阿里淘天后端日常实习一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.项目中llm用在哪里了<br/>2.rag主要做了什么<br/>3.你的rag场景是适老化，给我展开讲讲是老化还有什么东西可以去做<br/>4.大模型微调有了解过吗? 没有<br/>5.如果你发现大模型输出你并不满意，应该如何调整?<br/>6.你在prompt工程和上下文优化中有什么经验吗?<br/>7.回到传统后端项目，redis都存了哪些数据<br/>8.redis除了存缓存，还能存些什么?<br/>9.redis数据结构都有哪些?<br/>10.跳表理解，跳表底层原理<br/>11.zset为啥用跳表，不用b+树<br/>手撕:最简单的一集，简单dp+双线程打印 foobar</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/85a1f2808af94be08f4df81245fb4ef4"
     },
     {
@@ -2293,20 +2293,20 @@
     },
     {
         "uuid": "c36df7e2d9af4804a103cdb622db7de4",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "日常实习-快手Java后端一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、实习介绍<br/>2、hashmap与ConcurrentHashMap有什么区别?<br/>3、hashmap底层实现是什么，那ConcurrentHashMap底层实现是什么？<br/>4、LinkedList与ArrayList的区别？它们是线程安全的还是不安全的？<br/>5、索引什么时候失效？<br/>6、事务失效有哪几种情况？<br/>7、Redis数据结构有哪些？你常用的哪几种场景呢？<br/>8、Redis如何保证数据的一致性呢？先更新数据库再删除缓存，假如删除缓存失败了呢？<br/>9、Spring框架设计模式？什么是工厂模式？<br/>10、Spring的IOC是什么？A依赖B，B依赖A怎么处理？<br/>11、类加载器有哪几类？垃圾回收算法有哪几类？<br/>12、cookie和session的区别？<br/>13、线程池的了解？<br/>14、抽象类与接口的区别？</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/c36df7e2d9af4804a103cdb622db7de4"
     },
     {
         "uuid": "f3196f00c4ff4e9ea8816c3efc8ef30a",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "秋招Offer总结",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">鼠鼠3个月里投了70来家公司，面了20多家，拿了6个offer，最后接了农行上研，主要考虑wlb，所以投了很多金融岗，以下按时间线整理。<br/><br/>1.电信量子科技集团云平台后端岗（合肥）<br/>时间线：10.24笔试，10.28技术一面，11.05线下hr终面，11.07发offer。<br/>薪资：总包n+3（以上海银行总包为n）<br/>总结：一面就是常见的java八股，终面是主管和hr一起面，主要问结构化问题。由于这家公司才成立不久，所以拒了。<br/><br/>2.上海银行总行金融科技岗（上海）<br/>时间线：10.17线下面（一轮发就offer），10.21背调，11.12offer<br/>薪资：总包n（可以在offershow搜索）<br/>总结：线下一轮技术面就结束了，也是常见的八股。由于当时还有面试推进，所以拒了。<br/><br/>3.上海农商行总行金融科技岗（上海）<br/>时间线：10.23笔试，10.24 AI面，10.30线下面，11.18offer<br/>薪资：总包n+5（以上海银行总包为n）<br/>总结：线下技术群面，待遇比上海银行高一点，但听说无效加班比较多，所以拒了。<br/><br/>4.中国农业银行上海研发中心软件开发岗（上海）<br/>时间线：11.01线下笔试，11.27线下三轮面试（机考+技术面+结构化面试），12.08体检，12.12 offer<br/>薪资：密薪制<br/>总结：是我目前拿的最满意的offer，同面的小组都接了offer。<br/><br/>5.中金所技术软件开发岗（苏州）<br/>时间线：10.21线上笔试，11.11线上技术一面，11.19线下技术二面，12.03线下终面，12.22offer<br/>薪资：总包n-2（以上海银行总包为n）<br/>总结：流程最长的一家公司，今年涨了年包，但后续可能涨薪比较慢，所以拒了。<br/><br/>6.中国银行软件中心开发岗（合肥）<br/>时间线：10.25线下笔试，11.17线上机考，11.28线下面试，12.24体检<br/>薪资：总包n-3（以上海银行总包为n）<br/>总结：中行经典低保行，薪资太低了，听说也要加班，所以拒了。<br/><br/>没走完流程的公司<br/>1.交行测试中心（上海）推到了体检迟迟没消息<br/>2.上海中汇亿达金融信息技术有限公司来的太晚，所以拒了<br/>3.中海信托股份有限公司来的太晚，所以拒了<br/>4.兴业银行总行来的太晚，所以拒了<br/>5.中信建投要线下实习，所以拒了<br/>6.中信证券托管部要线下实习，所以拒了<br/>7.浙江农商银行要去杭州笔试，所以拒了<br/>8.江苏农商银行要线下笔试，所以拒了<br/>9.广发银行要线下面试，所以拒了<br/><br/><a class=\"subject font-green\" href=\"/creation/subject/002d6ce4eab1487f9cae3241b5322732\" nc-subject-tag-id=\"825\" nc-subject-type=\"0\" target=\"_blank\">#秋招#</a><a class=\"subject font-green\" href=\"/creation/subject/de76f7a87eea43119bdafec20e9b9763\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#offer#</a><a class=\"subject font-green\" href=\"/creation/subject/eb05ef0c3aad4981af85e1f84c8d3db3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#牛客AI配图神器#</a></div>",
         "url": "https://www.nowcoder.com/feed/main/detail/f3196f00c4ff4e9ea8816c3efc8ef30a"
     },
     {
         "uuid": "eb25269f833a4ca2bdf2d0d55116e83c",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "腾讯ieg后端开发日常一面秒挂...",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.拷打项目<br/>2.http和https的区别<br/>3.解释下https里tls的非对称加密怎么搞的<br/>4.redis常用数据结构<br/>5.redis哈希怎么存储的，怎么扩容，复制时如何保证读数据<br/>6.mysql事务四性<br/>7.四性如何保证的<br/>8.jvm内存模型<br/>9.类里新的实例存哪里?应该是堆，答栈了<br/>10.栈?怎样让他存堆?死性不改没有听懂潜台词，继续错<br/>11.transformer架构<br/>12.prompt工程优化<br/>13.rag都存了些什么?<br/>14.有了解过大模型微调吗?没有<br/>算法题:hot100变种，最大子数组和，输出子数组以及和.</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/eb25269f833a4ca2bdf2d0d55116e83c"
     },
     {
@@ -2317,8 +2317,8 @@
     },
     {
         "uuid": "241c1e60411f4ee1913c714e22505347",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "美团后端开发日常实习一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.你先介绍一下自己在做项目时遇到的难点以及你是怎么解决的。<br/>2.那你先说一下怎么基于拦截器进行 Token的校验以及刷新，答的越详细越好。<br/>3.为什么要用双层拦截器?<br/>4.知道ThreadLocal的底层原理吗?说一下，<br/>5.知道死锁吗?解释一下死锁。<br/>6.死锁怎么解决呢?<br/>7.解释一下通过分布式锁以及stream消息实现高并发一人一单的优化。<br/>8.用到了什么分布式锁呢?<br/>9.setnx的底层原理是什么?知道吗?</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/241c1e60411f4ee1913c714e22505347"
     },
     {
@@ -2407,8 +2407,8 @@
     },
     {
         "uuid": "c7e494f5176e4dadbc494856a2a2913f",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节后端日常实习一面35min",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.mg 敏感词消息丢失，重复写入<br/>2.mg 延迟消息底层原理 还有别的方式实现吗<br/>3.线程池批量入库，遇到过大事务问题吗，怎么解决<br/>4.批量写入的量级，批量写入细节，不是真正意义的批量入库?<br/>5.线程池参数的设置<br/>6.系统吞吐量，aps<br/>7.websocket如何保持长连接<br/>8.根据什么进行分库分表的?往年的数据不用了吗，跨年搜索怎么解决的，怎么<br/>9.规则引擎怎么实现的动态更新?怎么实现配置的动态更新，怎么用动态代理通知的配置更新<br/>10.讲-下seata，讲一下两阶段提交，会发生死锁吗，了解过其他全局事务中间件吗<br/>11.讲-下mysql索引，了解过间隙锁吗，什么是幻读，有哪些隔离级别，为什么现在更多企业用读已提交，forupdate<br/>算法:ongest pathin matrix</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/c7e494f5176e4dadbc494856a2a2913f"
     },
     {
@@ -2599,8 +2599,8 @@
     },
     {
         "uuid": "bfee2fd4fee4438ea4818e7df61ce807",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "美团后端开发秋招一面1h",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.先简单自我介绍一下<br/>2-3 对岗位和业务是否感兴趣<br/>4-12 拷打实习<br/>13.简单讲一下TCP的拥塞控制。<br/>14.简单介绍一下TCP里面的滑动窗口<br/>15.简单介绍一下TCP的三次握手和四次挥手。<br/>16.C++11、14、17的新特性你能简单介绍一下吗?<br/>17.你是怎么理解完美转发的?<br/>18.forward有什么作用?<br/>19.为什么要有完美转发这种机制?<br/>20.你排查过内存泄漏问题吗?一般怎么排查，有没有用过什么工具?<br/>21.你听过 AddressSanitizer吗?<br/>22.AddressSanitizer的原理是怎么做的，它是怎么实现相关功能的?<br/>23.C++里面的继承在语言层面是怎么实现的?<br/>24.你看过 C++里面的 Allocator吗?<br/>25.C++的内存分配器是怎么给对象分配内存的分配原理是什么?<br/>26.你一般调试都是怎么调试的?<br/>27.你会其他的语言吗，平时都是如何学习的?<br/>28.简历项目拷打<br/>29-31手撕一链表重排，如何优化<br/>32.你对北京有顾虑吗?<br/>33 反问</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/bfee2fd4fee4438ea4818e7df61ce807"
     },
     {
@@ -3085,20 +3085,20 @@
     },
     {
         "uuid": "eae910e9de4c4a86bb67191ff8b2c21d",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "腾讯golang校招一面 50min",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.golang的基础类型；slice这种和int float有什么区别；传递一个slice需要注意什么；如果在slice里存放指针，对slice进行复制，修改新的某个下标变量时会影响老的吗<br/>2.给了一段代码，关于select多路复用的代码，问这段代码输出什么<br/>3.给了一段代码，关于context实现超时控制的，问有什么问题<br/>4.go语言中map底层<br/>5.mysql的事务隔离级别；如何解决幻读；Mysql如何给单行数据加锁；对数据库的复制 备份有了解吗；半同步复制两种模式<br/>6.分布式理论raft共识算法的优缺点<br/>7.TCP三次握手最后一次ack丢失会怎样；服务器端没收到第二个ack，客户端发数据，会发生什么；TCP的time_wait状态<br/>8.多线程开发如何避免死锁<br/>9.用过哪些ai 编辑器<br/>10.问我的项目会遇到会遇到哪些难点<br/>11.如何看待工程师文化<br/>12.手撕代码：快排，问什么场景性能最坏<br/>13.go语言中int和int32有什么区别<br/>14.反问环节</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/eae910e9de4c4a86bb67191ff8b2c21d"
     },
     {
         "uuid": "1ad59e26a37f423e9451ec989b1a8c2a",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "Shopee Java后端 实习一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.java中的锁机制，什么是可重入锁<br/><br/>2.AQS<br/><br/>3.redis相关数据结构，为什么每种数据类型一般都有两种数据结构？<br/><br/>4.jvm 相关 内存结构，gc<br/><br/>5.hashmap底层原理<br/><br/>6.mysql 索引类型，分别解释，索引失效，什么是覆盖索引，什么是hash索引，和b+树有什么区别？<br/><br/>7.spring ioc aop原理，循环依赖怎么解决，三级缓存具体实现，如果构造函数内存在循环依赖还能解决吗？<br/><br/>8.mybatis相关，#和$怎么区分使用<br/><br/>9.线程池相关，流程，拒绝策略的选择，如何设计线程池最大线程数和核心线程数<br/><br/>10.HashMap ConcurrentHashMap<br/><br/>11.红黑树 二叉查找树 红黑树高度差<br/><br/>12.Mysql索引<br/><br/>13.两道算法 （怎么判断链表有环 两个方式 怎么判断树是不是二叉查找树 两个方式）<br/><br/>13.Redis 分布式锁<br/><br/>15.限流算法</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/1ad59e26a37f423e9451ec989b1a8c2a"
     },
     {
         "uuid": "ed22f1a8277a4e62a1898c1c709811a5",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "蚂蚁金服后端校招一面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、实习介绍<br/>2、问了一些个人情况（岗位选择、计算机相关课程、竞赛和保研）<br/>3、讲实习<br/>4、主机突然断电了，日志会丢失吗<br/>5、如何保证日志按时被清理了<br/>6、你在重构时，如何考虑和原有的代码兼容<br/>7、死锁是什么<br/>8、什么是线程安全，Java如何实现线程安全<br/>9、数据库中如果对一个数据有读有写的话，要加锁吗<br/>10、事务的隔离级别<br/>11、事务中的一致性和分布式系统中的一致性是一样的吗<br/>12、手撕1：非严格递增序列，原地去掉重复的数字，返回不同数字的个数，例子[1，1，2，3，3，3，4，4]，返回k=4，且原数组需变为[1，2，3，4，_，_，_，_]的形式<br/>13、手撕2：顺时针螺旋输出矩阵（hot100原题）<br/>14、反问</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/ed22f1a8277a4e62a1898c1c709811a5"
     },
     {
@@ -3109,8 +3109,8 @@
     },
     {
         "uuid": "9949d89f6f9a403a9e2c087c987c93e1",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "得物校招Golang后端三面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1、项目介绍<br/>2、实习拷打<br/>3、go的map并发会有什么问题<br/>4、redis设计过程中会考虑哪些问题<br/>5、热key<br/>6、系统稳定性保障应该考虑哪些方面<br/>7、熔断、限流、降级<br/>8、分布式场景下的数据一致性问题<br/>8、本地消息表的实现形式<br/>9、工作中如何处理好沟通协作的问题<br/>10、日常怎么解决生活中遇到的压力问题<br/>11、反问</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/9949d89f6f9a403a9e2c087c987c93e1"
     },
     {
@@ -3187,8 +3187,8 @@
     },
     {
         "uuid": "c11b472320c6462d95ebab4badfc5795",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "字节校招后端开发二面",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">1.数组第k大的数怎么实现?小顶堆实现。 时空复杂度?<br/>2.稳定排序有什么作用场景?多维度排序<br/>3.排序的理论最快时间复杂度是多少?O(n)<br/>4.有哪些?这些排序有什么限制吗?<br/>5.联合索引。联合索引(a,b,c)如果a全是一个值我select*fromtwhereb=1andc=1能走索引吗?看优化器<br/>6.一个表id为主键 时间 time k为索引，三个字段:<br/>帮我分析下面三个执行效率<br/>select * from t where k = 1select time from t where k = 1；<br/>select id from t where k = 1；<br/>7.深分页问题，让写出sql优化<br/>8.算法:检测有无循环引用(意思应该是图有没有环)<br/>9.反问</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/c11b472320c6462d95ebab4badfc5795"
     },
     {
@@ -3487,8 +3487,8 @@
     },
     {
         "uuid": "08f397fc8ad74f33b8b46d56da6df70e",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "快手校招后端开发三面 无手撕",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">项目<br/>1. 实习介绍，聊天<br/>场景<br/>2. 下面的流程你可以做哪些优化？假设执行10ms，qps是多少？<br/>A. 从kafka读出一个消息<br/>B. parse消息<br/>C. 根据parse的消息去磁盘文件A加载数据<br/>D. 根据加载的数据进行计算<br/>E. 将算出来的数据append到文件B<br/>3. 内存排序10亿个数据，要多少ms？（我直接崩溃，完全不会）<br/>反问<br/>反问，如何学习</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/08f397fc8ad74f33b8b46d56da6df70e"
     },
     {
@@ -3505,8 +3505,8 @@
     },
     {
         "uuid": "627d6ef01fd04bdebaddb2280e1fd40e",
-        "title": "标题未找到",
-        "content": "内容未找到",
+        "title": "快手java实习最速offer传说",
+        "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\">timeline：12.16 约面，12.17一面，当天约二面，12.18二面，晚上hr电话oc+wx约入职时间，12.19offer<br/>一面：<br/>问了一个实习中遇到的问题怎么解决+一些基础八股+场景题（关于线程池参数怎么设置）+手撕最长回文子串<br/>二面：<br/>问科研、成绩、实习、mysql八股、关于ai coding工具的使用和看法，无手撕（面试官没开摄像头，以为是kpi）。<br/>杭州电商部门</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/627d6ef01fd04bdebaddb2280e1fd40e"
     },
     {
@@ -3739,7 +3739,7 @@
     },
     {
         "uuid": "979a884a413649bca6b782756f12fe04",
-        "title": "标题未找到",
+        "title": "#面试问题记录# 最近面了几家公司的后端开发岗，有些问题印象很深。有家公司问：“",
         "content": "<div class=\"feed-content-text tw-text-gray-800 tw-mb-4 tw-break-all\" data-v-5ea596c4=\"\"><a class=\"subject font-green\" href=\"/creation/subject/3871fa77df8f40faa40474d054dbe5e3\" nc-subject-tag-id=\"0\" nc-subject-type=\"0\" target=\"_blank\">#面试问题记录#</a><br/>最近面了几家公司的后端开发岗，有些问题印象很深。有家公司问：“如果让你设计一个分布式任务调度系统，你会考虑哪些关键点？”这题不仅考技术，更考系统思维。还有次被问到：“线上服务突然CPU飙升，你的排查步骤是什么？”这类实战题需要清晰的逻辑链。<br/><br/>另外几次面试聚焦于项目细节。比如：“你在项目中遇到最难的技术挑战是什么？如何解决的？”以及：“如果让你重做这个项目，会在架构上做哪些改进？”这些问题都在考察真实经历和反思深度，泛泛而谈很容易被识破。<br/><br/>还有些问题看似基础却暗藏玄机：“TCP和UDP的区别？分别适用于什么场景？”“Spring Bean的生命周期是怎样的？”回答时如果能结合真实用例和踩坑经验，往往比背书式的答案更得分。每次面试后最好立刻记下这些问题，它们不仅是复盘材料，更是后续面试的宝贵题库。</div>",
         "url": "https://www.nowcoder.com/feed/main/detail/979a884a413649bca6b782756f12fe04"
     },
