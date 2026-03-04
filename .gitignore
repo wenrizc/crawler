@@ -42,8 +42,6 @@ htmlcov/
 Thumbs.db
 
 # Project data/output
-nowcoder_scraped_data.json
-interview_analysis/
 *.log
 *.tmp
 
